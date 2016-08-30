@@ -1,0 +1,19 @@
+Given string of parentheses, you need to determine if they are balanced or not.
+
+Balanced parentheses is when each opening '(' has a corresponding ')'
+and it's nested properly.
+
+Examples for blanaced parentheses:
+
+()
+(()())
+(((())))
+
+Examples for unoblanaced parentheses:
+
+(()
+(((())
+())))
+
+You have stack.py included in this directory, which defines Stack object.
+You can use it in your program.
