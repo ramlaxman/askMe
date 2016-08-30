@@ -1,0 +1,18 @@
+Given string of different parentheses types, you need to determine if they
+are balanced or not.
+
+Balanced symbols is when each opening bracket has a corresponding
+ending bracket from the same type and it's nested properly.
+
+Examples for blanaced symbols:
+
+{}()[]
+([]()[][])
+
+Examples for unoblanaced symbols:
+
+{((]}
+[[]}})
+
+You have stack.py included in this directory, which defines a Stack object.
+You can use it in your program.
