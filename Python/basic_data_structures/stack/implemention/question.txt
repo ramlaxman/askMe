@@ -1,0 +1,16 @@
+Implement stack
+
+User should be able:
+
+1. Push item to the stack
+2. Pop item from the stack
+3. Check if stack is empty
+4. Check stack's size
+
+Hints/Guidance
+--------------
+1. List in Python can be used as stack, but this is not what you should do.
+   You should implement your own stack class (The class can use list).
+
+2. Allow user to print stack as real stack, so it can be seen which item is
+   at the top and which is at the bottom.
