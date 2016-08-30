@@ -1,0 +1,10 @@
+Q: What is a soft link? What is a hard link? 
+   What is the difference between them?
+---------------------------------------------------------------------------------
+
+Q: What is an inode?
+---------------------------------------------------------------------------------
+
+Q: You try to create new file on your filesystem, but it fails. You have enough
+   disk space. What might be the reason?
+
