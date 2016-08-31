@@ -25,6 +25,7 @@ def check_balanced_parentheses(sequence):
 
 
 # Test the function
+# -----------------
 print(check_balanced_parentheses("(())))"))  # Should print False
 print(check_balanced_parentheses(")("))      # Should print False
 print(check_balanced_parentheses("()"))      # Should print True

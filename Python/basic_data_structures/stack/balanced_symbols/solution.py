@@ -31,6 +31,7 @@ def check_balanced_symbols(sequence):
 
 
 # Test the function
+# -----------------
 print(check_balanced_symbols("{[}]"))    # Should print False
 print(check_balanced_symbols("{[)}"))    # Should print False
 print(check_balanced_symbols("{[]}"))    # Should print True

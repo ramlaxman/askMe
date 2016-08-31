@@ -1,0 +1,8 @@
+Q: What is the process to create an RPM? What is the command that would generate an RPM and SRPM?
+-------------------------------------------------------------------------------------------------
+
+Q: What sections and fields you usually use when writing a spec?
+----------------------------------------------------------------
+
+Q: What section in the spec is important to update each time you are making changes?
+------------------------------------------------------------------------------------

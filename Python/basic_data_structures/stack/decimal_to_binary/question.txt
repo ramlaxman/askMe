@@ -1,0 +1,8 @@
+Write a function which will receive decimal number and would convert it
+to a binary.
+
+decimalToBinary(24) -> 00011000
+decimalToBinary(131) -> 10000011
+
+You have stack.py included in this directory, which defines Stack object.
+You can use it in your program.
