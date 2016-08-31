@@ -1,0 +1,14 @@
+Note: Use sed to solve every question.
+
+Given the next text:
+
+Its a me, Mario
+Its a me, Mario
+Its a me, Luigi
+Its a me, Mario
+Its a me, Mario
+Its a me, Bowser
+
+1. Remove the line with 'Luigi'
+
+2. Replace 'Mario', in all lines, to 'Toad'
