@@ -1,0 +1,8 @@
+Q: What is a task, play and playbook? exaplain the relationship between them
+----------------------------------------------------------------------------
+
+Q: What is the structure of role? What directories and files it usually includes?
+---------------------------------------------------------------------------------
+
+Q: Write a playbook which installs httpd and starts the service
+---------------------------------------------------------------
