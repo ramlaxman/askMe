@@ -1,0 +1,11 @@
+Q: What is an ARP?
+------------------
+
+Q: What is MTU?
+---------------
+
+Q: What is the difference between a hub, a switch and a router? 
+---------------------------------------------------------------
+
+Q: What is the difference betwen UDP and TCP?
+---------------------------------------------

@@ -1,0 +1,11 @@
+Q: What are mutable and immutable types in Python?
+--------------------------------------------------
+
+Q: What is the difference betweeb List and Tuple?
+-------------------------------------------------
+
+Q: What is *args? What is **kwargs? 
+-----------------------------------
+
+Q: What is list comprehension in Python?
+----------------------------------------
