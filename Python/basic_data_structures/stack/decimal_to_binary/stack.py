@@ -19,6 +19,9 @@ class Stack(object):
     def size(self):
         return len(self.items)
 
+    def top(self):
+        return self.items[-1]
+
     def __str__(self):
         items = "Stack:\n" + '\n'.join(str(item) for item in self.items[::-1])
         return items

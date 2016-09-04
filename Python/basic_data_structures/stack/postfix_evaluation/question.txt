@@ -1,0 +1,12 @@
+Write a function which evaluates postfix expression.
+
+Postfix notation is when all the operators are placed after the operands.
+
+Postfix examples:
+
+1 4 3 * +     -> evaluates to 13
+3 2 + 4 1 + / -> evaluates to 1
+
+
+You have stack.py included in this directory, which defines Stack object.
+You can use it in your program.

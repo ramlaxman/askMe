@@ -1,0 +1,19 @@
+Write a function which converts infix notation to postfix.
+
+Infix is when the operator is in between two operands.
+Postfix is when all the operators are placed after the operands.
+
+Infix examples:
+
+X * Y + Z
+W * X * Y * Z
+(X + Y) * (W + Z)
+
+Postfix examples:
+
+X Y * Z +
+W X Y Z *
+X Y + W Z + *
+
+You have stack.py included in this directory, which defines Stack object.
+You can use it in your program.
