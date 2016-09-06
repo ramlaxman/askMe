@@ -1,0 +1,13 @@
+Implement queue
+
+User should be able:
+
+1. Insert item into the queue (aka enqueue)
+2. Pop item from the queue (aka dequeue)
+3. Check if queue is empty
+4. Check queue's size
+
+Hints/Guidance
+--------------
+1. List in Python can be used as queue, but this is not what you should do.
+   You should implement your own queue class (The class can use list).
