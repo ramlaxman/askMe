@@ -1,0 +1,17 @@
+Write program which simulates the "Hot Potato" game. The input is a list 
+of names and an number.
+
+In "Hot Potato" game, there is a circle of people and each person is passing 
+an hot potato as fast as they can to the person next to them.
+At some point, the passing stopped (in our case the stopping determined by the
+num passed to the program) and the person holding the potato is removed from
+the circle.
+
+Hints/Guidance
+--------------
+1. You have queue.py included in this directory, which defines a Queue object.
+You can use it in your program.
+
+2. To simulate the circle, use queue.
+
+3. The person in front of the queue is the person holding the potato.

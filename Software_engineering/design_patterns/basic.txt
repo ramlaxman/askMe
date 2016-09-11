@@ -1,0 +1,8 @@
+Q: What is a design pattern? What is it used for?
+-------------------------------------------------
+
+Q: What categories of deisgn patterns there are?
+------------------------------------------------
+
+Q: When will you use 'Abstract Factory' ?, to which category of design patterns it belongs?
+------------------------------------------------------------------------------------------

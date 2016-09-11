@@ -1,0 +1,6 @@
+Write a function to print the duplicate characters in a given string.
+
+For example:
+
+"hello" -> will print 'l'
+"character" -> will print 'c a r'

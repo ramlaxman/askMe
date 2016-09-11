@@ -1,0 +1,6 @@
+Write function which takes directory path and prints the paths of
+all the files within that directory in addition to any other files contained in
+the sub directories. 
+
+Restrictions: Don't use os.walk! ;)
+

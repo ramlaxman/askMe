@@ -1,0 +1,8 @@
+Q: What is an Lambda/Aanonymous function? What is it used for?
+--------------------------------------------------------------
+
+Q: What is a decorator? How and where it used in Python?
+--------------------------------------------------------
+
+Q: What is a static method? How you use in Python?
+--------------------------------------------------
