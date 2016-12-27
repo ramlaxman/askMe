@@ -1,0 +1,18 @@
+Write a program which simulates a printer.
+
+The printer simulation software should compose of:
+
+1. Print tasks, submitted by another software or a user.
+2. Print qeueu, to process print tasks.
+3. Printer, to print and manage the print queue.
+
+Hints/Guidance
+--------------
+* You should create three classes: Printer, PrintTask, PrintQueue:
+    Printer -   represenets the printer Should be given a ppg parameter (pages per minute).
+    PrintTask - represenets a print task. Should be given a number of pages.
+    PrintQueue - represents a printer queue where tasks should be submitted or pulled from.
+
+* Use threading library to run the printer as a thread
+
+* Submit several different tasks after running the printer to verify it works properly.

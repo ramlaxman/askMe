@@ -21,4 +21,5 @@ def hot_potato(players, num):
 
 # Test the program
 # -----------------
-print(hot_potato(["Mario", "Luigi", "Peach", "Bowser", "Shy Guy","Yoshi", "Toad"], 7))
+print(hot_potato(["Mario", "Luigi", "Peach", "Bowser", "Shy Guy","Yoshi", "Toad"], 7)) # Should print 'Bowser'
+print(hot_potato(["Blue", "Red", "Black", "Pink", "Orange","White"], 7)) # Should print 'Black'

@@ -1,0 +1,11 @@
+Implement producer and consumer while using a queue
+
+Producer is responsible for inserting tasks into the queue.
+Consumer is responsible for reading tasks from the queue.
+
+Hints/Guidance
+--------------
+1. You can use Python built-in 'Queue' module
+2. To run Producer and Consumer use the 'threading' module
+3. You can isert to the queue any type of object you want. I recommend on datetime.datetime.now().
+4. Make sure to sleep after reading/putting each item to and from the queue.

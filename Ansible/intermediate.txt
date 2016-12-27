@@ -1,0 +1,3 @@
+Q: You have access to Host X and you also have access to Host Y.
+   Write a playbook that sets up a password-less connection between Host X and Host Y.
+--------------------------------------------------------------------------------------

@@ -1,0 +1,15 @@
+Implement a deque
+
+User should be able:
+
+1. Create a deque instance.
+1. Insert item into the deque, to the front or the rear of the deque.
+2. Pop item from the deque, from the front or the rear of the deque.
+3. Check if the deque is empty.
+4. Check deque's size
+
+Hints/Guidance
+--------------
+1. List in Python can be used as deque, but this is not what you should do.
+   You should implement your own deque class (The class can use list) so users
+   can create an instance of it.

@@ -1,0 +1,8 @@
+Write a function that checks if a given string is a palindrome or not
+
+Hints/Guidance
+--------------
+1. There are many ways to solve this question using Python, but since this
+   is under the 'deque' directory, use a deque structure to solve it :).
+
+2. You can use the deque.py file in this directory.

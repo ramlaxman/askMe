@@ -1,4 +1,4 @@
-Write program which simulates the "Hot Potato" game. The input is a list 
+Write a program which simulates the "Hot Potato" game. The input is a list 
 of names and an number.
 
 In "Hot Potato" game, there is a circle of people and each person is passing 

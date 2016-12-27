@@ -1,0 +1,7 @@
+Write a simple logistic regression model
+
+Hints
+-----
+1. Pass the program a dataset to process.
+2. Use pylab to visualize the result.
+3. Use numpy to load the data.

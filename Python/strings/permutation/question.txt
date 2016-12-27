@@ -1,0 +1,5 @@
+Write a funciton to determine if one string is a permutation of the other
+
+Hints
+-----
+The common solution is O(n log(n)). Try to solve it with O(n).

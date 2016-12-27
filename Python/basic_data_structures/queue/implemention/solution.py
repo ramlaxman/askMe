@@ -6,7 +6,7 @@
 
 
 class Queue(object):
-    """Stack implemention."""
+    """Queue implemention."""
 
     def __init__(self):
         self.items = []
