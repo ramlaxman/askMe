@@ -1,0 +1,23 @@
+Implement a linked list
+
+Hints/Guidance
+--------------
+1. Your program should include two classes:
+    1. Node - element in a linked list with two attributes:
+		a. data
+        b. reference to next node
+
+       User should be able to:
+        a. Get data
+        b. Set data
+        c. Get next node
+        d. Set next node
+
+    2. Linked List. Attributes:
+        a. Head - the first node in the linked list
+
+       User should be to:
+        a. Add node
+        b. Remove node
+        b. Check if the linked list is empty
+        c. Get the size of the linked list

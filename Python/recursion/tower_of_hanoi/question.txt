@@ -1,0 +1,10 @@
+Write a function that solves 'Tower of Hanoi'[1] puzzle.
+
+[1] Tower of Hanoi - 'https://en.wikipedia.org/wiki/Tower_of_Hanoi'
+
+# Guidelines
+# ----------
+
+1. The function should get the number of disks.
+
+2. Use recursion to solve the puzzle.
