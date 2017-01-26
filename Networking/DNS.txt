@@ -1,0 +1,17 @@
+Q: What is DNS?
+
+A: DNS (Domain name servers) hierarchical decentralized naming system.
+   A common use of DNS is for address resolution (From IP to hostname or 
+   from hostname to IP).
+
+---
+
+Q: Which port DNS is using?
+
+A: 53
+
+---
+
+Q: DNS is using UDP or TCP?
+
+A: Both :)

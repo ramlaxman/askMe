@@ -1,0 +1,4 @@
+Q: When killing a process, which default signal is used?
+
+A: TERM
+---

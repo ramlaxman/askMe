@@ -1,0 +1,10 @@
+Write a funciton which implements Python's string replace method
+
+Replace used to replace all the occurrences of a specific string
+with another given string.
+
+Hints
+-----
+* Signature should look like "replace(base_string, to_replace, replace_with)"
+  unless you prefer to have String class with this method.
+* Use slices :)

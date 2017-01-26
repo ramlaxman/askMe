@@ -1,0 +1,6 @@
+Write a funciton to determine if one string is rotation of another string
+
+Hints
+-----
+1. You can use 'in' operator.
+2. In addition, you can try to solve the question without using 'in'.
