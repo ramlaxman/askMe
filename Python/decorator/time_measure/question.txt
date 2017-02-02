@@ -1,0 +1,5 @@
+Write a decorator to measure the executin time of a method
+
+Hints
+-----
+1. Use time.time() to get current time

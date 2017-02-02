@@ -1,0 +1,6 @@
+Write a function that reads a given file and counts how many
+times each word appears in the file.
+
+Hints
+-----
+1. You might want to use collections.Counter

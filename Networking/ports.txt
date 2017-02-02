@@ -1,0 +1,22 @@
+Question: What is the port number of the following services:
+
+1. SSH
+2. Telnet
+3. DNS
+4. NTP
+5. HTTP
+6. SMTP
+7. HTTPS
+8. FTP
+
+
+Answer:
+
+1. 22
+2. 23
+3. 53
+4. 123
+5. 80
+6. 25
+7. 443
+8. FTP Data -> 20, FTP Control -> 21

@@ -1,0 +1,7 @@
+Q: How would you find information on the different system calls, using internal util
+
+A: To read more about system calls you should use 'man 2 <system_call_name>'.
+   Simply using 'man <system_call>' would not display you the information you
+   looking for. You should search in section 2.
+
+---

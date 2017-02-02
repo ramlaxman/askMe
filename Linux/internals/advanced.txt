@@ -1,0 +1,9 @@
+Q: What happens when you type 'ls' in the system? (include system calls in your answer)
+
+A: There are several steps in the process:
+
+    1. It will look for 'ls' command in the paths defined by $PATH using the 'stat' system call.
+    2.
+
+---
+
