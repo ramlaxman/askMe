@@ -1,0 +1,9 @@
+Write a function which takes a matrix of NxM. For each 0
+in the matrix, it will zero out the entire column and row of the
+zero element.
+
+Example
+--------
+[1, 2, 3, 4 ]     [0, 0, 3, 0]
+[5, 0, 7, 0 ] ->  [0, 0, 0, 0]
+[0, 8, 9, 1 ]     [0, 0, 0, 0]

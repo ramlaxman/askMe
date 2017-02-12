@@ -4,6 +4,7 @@ import shutil
 import tempfile
 import unittest
 
+
 def count_lines(f):
     """Return number of lines in a given file."""
     return sum(1 for line in open(f))
@@ -16,7 +17,7 @@ class TestCountLines(unittest.TestCase):
 
     def tearDown(self):
         shutil.rmtree(self.temp_dir)
-        
+
     def test_count_lines(self):
         with open(os.path.join(self.temp_dir, 'cl'), 'w') as f:
             f.writelines("Hello\nIs it me\nYou looking fori\n")

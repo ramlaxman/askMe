@@ -1,0 +1,7 @@
+Write a funciton to compress string based on repeated
+characteres. If compressed string isn't shorter than
+original, return original string.
+
+'aabbbcc' -> a2b3c2
+'aaaabbbb' -> a4b4
+'abbcc' -> 'abbcc' (compressed string isn't shorter than original string).
