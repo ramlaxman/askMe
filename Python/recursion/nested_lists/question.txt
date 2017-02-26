@@ -1,0 +1,12 @@
+Write a function that will return each item in a given list.
+If the list includes additional lists, it will also return their items
+as well as a single item and not a list.
+
+Guidelines
+----------
+Use generators in your solution
+
+Example
+--------
+[1, 2, [3, 4, 5], 6] -> 1, 2, 3, 4, 5, 6
+[1, [2, 3, [4, 5, 6] ], 7] -> 1, 2, 3, 4, 5, 6, 7

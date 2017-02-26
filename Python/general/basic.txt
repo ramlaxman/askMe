@@ -9,3 +9,19 @@ Q: What is *args? What is **kwargs?
 
 Q: What is list comprehension in Python?
 ----------------------------------------
+
+Q: Write a function that returns the sum of two numbers
+A:
+def sum(num1, num2):
+    return num1 + num2
+-------------------------------------------------------
+
+Q: Write a function that returns the sum of any given number of arguments
+A:
+
+def sum(*args):
+    result = 0
+    for num in args:
+        result += num
+    return result
+--------------------------------------------------------------------------

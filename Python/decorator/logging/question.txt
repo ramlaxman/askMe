@@ -1,0 +1,10 @@
+You have the following sum function:
+
+def sum(*args):                                                                 
+    result = 0                                                                  
+    for num in args:                                                            
+        result += num                                                           
+    return result
+
+Create a logging function that will print the given numbers and the result of
+of the function WITHOUT changing the sum function.
